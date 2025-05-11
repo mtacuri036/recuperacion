@@ -1,0 +1,7 @@
+{
+  "name": "event-form",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
